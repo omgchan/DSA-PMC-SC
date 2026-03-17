@@ -65,7 +65,8 @@ The objective of this project is to understand and implement fundamental **data 
 ## Technologies Used
 
 * Programming Language: **C**
-* Compiler: GCC / Turbo C
+* Tool/IDE: Visual Studio Code (VS Code)
+* Compiler: GCC
 
 ---
 
